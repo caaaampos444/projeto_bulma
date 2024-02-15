@@ -31,3 +31,16 @@ body{
     height: 100%;
     width: 100%;
 }
+
+@media(max-height: 668px){
+    img{
+        display: none;
+    }
+    body{
+        background-color: #F3CC4D;
+        background-image: url(./img/fssfd.svg);
+    }
+    #centro{
+        background-color: transparent;
+    }
+}
