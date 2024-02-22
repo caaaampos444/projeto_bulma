@@ -42,5 +42,9 @@ body{
     }
     #centro{
         background-color: transparent;
+        gap: 80px;
+    }
+    #imagem{
+        display: block;
     }
 }
